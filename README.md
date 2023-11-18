@@ -16,9 +16,9 @@ Sacha Volery, Théo Brocard, Matteo Da Cunha
 
 ## Desciption du projet 
 
-Nous allons faire le système de résevation d'un hotêl avec plusieurs options ;
+#### Nous allons faire le système de résevation d'un hotêl avec plusieurs options ;
 
--Réservation : 
+##### -Réservation : 
     Permettra aux clients de réserver une / plusieurs chambres
 
 -Client : 
