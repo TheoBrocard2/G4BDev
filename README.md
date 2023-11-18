@@ -3,15 +3,15 @@ Sacha Volery, Théo Brocard, Matteo Da Cunha
 
 ## Software et version 
 
-.NET version 6.0
-C# Winform
-Visual Studio 2022
-HeidiSQL version 12.6
+### .NET version 6.0
+### C# Winform
+### Visual Studio 2022
+### HeidiSQL version 12.6
 
 ## Prerequesites
 
-[Installation Visual Studio Code](https://learn.microsoft.com/en-us/visualstudio/install/install-visual-studio?view=vs-2022) 
-[Installation HeidiSQL](https://www.heidisql.com/download.php)
+### [Installation Visual Studio Code](https://learn.microsoft.com/en-us/visualstudio/install/install-visual-studio?view=vs-2022) 
+### [Installation HeidiSQL](https://www.heidisql.com/download.php)
 
 
 ## Desciption du projet 
