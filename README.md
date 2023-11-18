@@ -1,39 +1,39 @@
 # G4BDev / Projet C# Hôtelerie
 Sacha Volery, Théo Brocard, Matteo Da Cunha
 
-# Software et version 
+## Software et version 
 
 .NET version 6.0
 C# Winform
 Visual Studio 2022
 HeidiSQL version 12.6
 
-# Prerequesites
+## Prerequesites
 
-[Installation Visual Studio Code] https://learn.microsoft.com/en-us/visualstudio/install/install-visual-studio?view=vs-2022 
-[Installation HeidiSQL] https://www.heidisql.com/download.php
+[Installation Visual Studio Code](https://learn.microsoft.com/en-us/visualstudio/install/install-visual-studio?view=vs-2022) 
+[Installation HeidiSQL](https://www.heidisql.com/download.php)
 
 
-# Desciption du projet 
+## Desciption du projet 
 
 Nous allons faire le système de résevation d'un hotêl avec plusieurs options ;
 
-Réservation : 
+-Réservation : 
     Permettra aux clients de réserver une / plusieurs chambres
 
-Client : 
+-Client : 
     Les informations des clients de l'hôtel
 
-Chambres : 
+-Chambres : 
     Le prix et les différentes options possible (chambre simple, double, etc...) + ces disponibilité
 
-Personnel :
+-Personnel :
     Les informations sur les salariers de l'hôtel
 
-Facture :    
+-Facture :    
     Les factures après séjour
 
-Service : 
+-Service : 
     Les différant services possible + leurs coûts
 
 # 
