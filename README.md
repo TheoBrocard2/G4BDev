@@ -3,10 +3,10 @@ Sacha Volery, Théo Brocard, Matteo Da Cunha
 
 ## Software et version 
 
-### .NET version 6.0
-### C# Winform
-### Visual Studio 2022
-### HeidiSQL version 12.6
+##### .NET version 6.0
+##### C# Winform
+##### Visual Studio 2022
+##### HeidiSQL version 12.6
 
 ## Prerequesites
 
