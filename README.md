@@ -18,24 +18,24 @@ Sacha Volery, Théo Brocard, Matteo Da Cunha
 
 #### Nous allons faire le système de résevation d'un hotêl avec plusieurs options ;
 
-##### Réservation : 
+##### -Réservation : 
    ###### Permettra aux clients de réserver une / plusieurs chambres
 
-##### Client : 
-    ###### Les informations des clients de l'hôtel
+##### -Client : 
+   ###### Les informations des clients de l'hôtel
 
--Chambres : 
+##### Chambres : 
     Le prix et les différentes options possible (chambre simple, double, etc...) + ces disponibilité
 
--Personnel :
-    Les informations sur les salariers de l'hôtel
+##### -Personnel :
+   ###### Les informations sur les salariers de l'hôtel
 
--Facture :    
-    Les factures après séjour
+##### -Facture :    
+    ###### Les factures après séjour
 
--Service : 
-    Les différant services possible + leurs coûts
+##### -Service : 
+   ###### Les différant services possible + leurs coûts
 
-# 
+
 
 
