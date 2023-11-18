@@ -1,0 +1,17 @@
+C:\Users\pl07ccc\Desktop\G4bDev_Hôtellerie\G4bDev_Hôtellerie\bin\Debug\net6.0-windows\G4bDev_Hôtellerie.exe
+C:\Users\pl07ccc\Desktop\G4bDev_Hôtellerie\G4bDev_Hôtellerie\bin\Debug\net6.0-windows\G4bDev_Hôtellerie.deps.json
+C:\Users\pl07ccc\Desktop\G4bDev_Hôtellerie\G4bDev_Hôtellerie\bin\Debug\net6.0-windows\G4bDev_Hôtellerie.runtimeconfig.json
+C:\Users\pl07ccc\Desktop\G4bDev_Hôtellerie\G4bDev_Hôtellerie\bin\Debug\net6.0-windows\G4bDev_Hôtellerie.dll
+C:\Users\pl07ccc\Desktop\G4bDev_Hôtellerie\G4bDev_Hôtellerie\bin\Debug\net6.0-windows\G4bDev_Hôtellerie.pdb
+C:\Users\pl07ccc\Desktop\G4bDev_Hôtellerie\G4bDev_Hôtellerie\obj\Debug\net6.0-windows\G4bDev_Hôtellerie.csproj.AssemblyReference.cache
+C:\Users\pl07ccc\Desktop\G4bDev_Hôtellerie\G4bDev_Hôtellerie\obj\Debug\net6.0-windows\G4bDev_Hôtellerie.Form1.resources
+C:\Users\pl07ccc\Desktop\G4bDev_Hôtellerie\G4bDev_Hôtellerie\obj\Debug\net6.0-windows\G4bDev_Hôtellerie.csproj.GenerateResource.cache
+C:\Users\pl07ccc\Desktop\G4bDev_Hôtellerie\G4bDev_Hôtellerie\obj\Debug\net6.0-windows\G4bDev_Hôtellerie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pl07ccc\Desktop\G4bDev_Hôtellerie\G4bDev_Hôtellerie\obj\Debug\net6.0-windows\G4bDev_Hôtellerie.AssemblyInfoInputs.cache
+C:\Users\pl07ccc\Desktop\G4bDev_Hôtellerie\G4bDev_Hôtellerie\obj\Debug\net6.0-windows\G4bDev_Hôtellerie.AssemblyInfo.cs
+C:\Users\pl07ccc\Desktop\G4bDev_Hôtellerie\G4bDev_Hôtellerie\obj\Debug\net6.0-windows\G4bDev_Hôtellerie.csproj.CoreCompileInputs.cache
+C:\Users\pl07ccc\Desktop\G4bDev_Hôtellerie\G4bDev_Hôtellerie\obj\Debug\net6.0-windows\G4bDev_Hôtellerie.dll
+C:\Users\pl07ccc\Desktop\G4bDev_Hôtellerie\G4bDev_Hôtellerie\obj\Debug\net6.0-windows\refint\G4bDev_Hôtellerie.dll
+C:\Users\pl07ccc\Desktop\G4bDev_Hôtellerie\G4bDev_Hôtellerie\obj\Debug\net6.0-windows\G4bDev_Hôtellerie.pdb
+C:\Users\pl07ccc\Desktop\G4bDev_Hôtellerie\G4bDev_Hôtellerie\obj\Debug\net6.0-windows\G4bDev_Hôtellerie.genruntimeconfig.cache
+C:\Users\pl07ccc\Desktop\G4bDev_Hôtellerie\G4bDev_Hôtellerie\obj\Debug\net6.0-windows\ref\G4bDev_Hôtellerie.dll

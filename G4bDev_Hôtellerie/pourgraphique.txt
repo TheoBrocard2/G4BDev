@@ -1,0 +1,41 @@
+// Supposons que vous ayez des champs de texte dans votre interface graphique nommés txtNom, txtPrenom, txtNumeroTelephone, txtAdresse, etc.
+
+private void btnEnregistrer_Click(object sender, EventArgs e)
+{
+    // Récupérer les valeurs entrées dans les champs de texte
+    string nom = txtNom.Text;
+    string prenom = txtPrenom.Text;
+    string numeroTelephone = txtNumeroTelephone.Text;
+    string adresse = txtAdresse.Text;
+
+    // Appeler la méthode Enregistrer de la classe Client
+    Client nouveauClient = Client.Enregistrer(nom, prenom, numeroTelephone, adresse);
+
+    // Vous pouvez maintenant utiliser l'objet nouveauClient comme nécessaire
+    // Par exemple, l'ajouter à une liste de clients enregistrés.
+
+    // Afficher un message de succès ou effectuer d'autres actions nécessaires
+    MessageBox.Show("Client enregistré avec succès!");
+
+    // Optionnel : Rafraîchir l'affichage de la liste des clients
+    // Cela dépend de la façon dont vous affichez les clients dans votre interface graphique
+    // RefreshListeClients();
+}
+
+// Méthode pour rafraîchir l'affichage de la liste des clients (exemple)
+private void RefreshListeClients()
+{
+    // Supposons que lstClients soit un contrôle ListBox dans votre interface graphique
+    // Vous pouvez mettre à jour son contenu avec la liste actuelle des clients enregistrés
+
+    lstClients.Items.Clear(); // Effacer la liste actuelle
+
+    // Récupérer la liste des clients enregistrés
+    List<Client> clientsEnregistres = Client.GetClientsEnregistres();
+
+    // Ajouter chaque client à la liste
+    foreach (Client client in clientsEnregistres)
+    {
+        lstClients.Items.Add($"{client.Nom} {client.Prenom}");
+    }
+}
