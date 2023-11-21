@@ -7,6 +7,7 @@ Sacha Volery, Théo Brocard, Matteo Da Cunha
 ##### C# Winform
 ##### Visual Studio 2022
 ##### HeidiSQL version 12.6
+##### MySQl dll v 4.8
 
 ## Prerequesites
 
