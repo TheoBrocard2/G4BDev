@@ -1,0 +1,8 @@
+C:\Users\pn44lvn\source\repos\G4BDev\G4bDev_Hôtellerie\G4bDev_Hôtellerie\obj\Debug\net7.0\PrototypeDbConnector.csproj.AssemblyReference.cache
+C:\Users\pn44lvn\source\repos\G4BDev\G4bDev_Hôtellerie\G4bDev_Hôtellerie\obj\Debug\net7.0\G4bDev_Hôtellerie.Form1.resources
+C:\Users\pn44lvn\source\repos\G4BDev\G4bDev_Hôtellerie\G4bDev_Hôtellerie\obj\Debug\net7.0\PrototypeDbConnector.csproj.GenerateResource.cache
+C:\Users\pn44lvn\source\repos\G4BDev\G4bDev_Hôtellerie\G4bDev_Hôtellerie\obj\Debug\net7.0\PrototypeDbConnector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pn44lvn\source\repos\G4BDev\G4bDev_Hôtellerie\G4bDev_Hôtellerie\obj\Debug\net7.0\PrototypeDbConnector.AssemblyInfoInputs.cache
+C:\Users\pn44lvn\source\repos\G4BDev\G4bDev_Hôtellerie\G4bDev_Hôtellerie\obj\Debug\net7.0\PrototypeDbConnector.AssemblyInfo.cs
+C:\Users\pn44lvn\source\repos\G4BDev\G4bDev_Hôtellerie\G4bDev_Hôtellerie\obj\Debug\net7.0\PrototypeDbConnector.csproj.CoreCompileInputs.cache
+C:\Users\pn44lvn\source\repos\G4BDev\G4bDev_Hôtellerie\G4bDev_Hôtellerie\obj\Debug\net7.0\PrototypeDbConnector.sourcelink.json

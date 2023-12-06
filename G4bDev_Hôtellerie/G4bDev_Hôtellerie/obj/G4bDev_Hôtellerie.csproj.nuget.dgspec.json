@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pl07ccc\\Desktop\\G4bDev_Hôtellerie\\G4bDev_Hôtellerie\\G4bDev_Hôtellerie.csproj": {}
+    "C:\\Users\\pn44lvn\\source\\repos\\G4BDev\\G4bDev_Hôtellerie\\G4bDev_Hôtellerie\\G4bDev_Hôtellerie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pl07ccc\\Desktop\\G4bDev_Hôtellerie\\G4bDev_Hôtellerie\\G4bDev_Hôtellerie.csproj": {
+    "C:\\Users\\pn44lvn\\source\\repos\\G4BDev\\G4bDev_Hôtellerie\\G4bDev_Hôtellerie\\G4bDev_Hôtellerie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pl07ccc\\Desktop\\G4bDev_Hôtellerie\\G4bDev_Hôtellerie\\G4bDev_Hôtellerie.csproj",
+        "projectUniqueName": "C:\\Users\\pn44lvn\\source\\repos\\G4BDev\\G4bDev_Hôtellerie\\G4bDev_Hôtellerie\\G4bDev_Hôtellerie.csproj",
         "projectName": "G4bDev_Hôtellerie",
-        "projectPath": "C:\\Users\\pl07ccc\\Desktop\\G4bDev_Hôtellerie\\G4bDev_Hôtellerie\\G4bDev_Hôtellerie.csproj",
-        "packagesPath": "C:\\Users\\pl07ccc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pl07ccc\\Desktop\\G4bDev_Hôtellerie\\G4bDev_Hôtellerie\\obj\\",
+        "projectPath": "C:\\Users\\pn44lvn\\source\\repos\\G4BDev\\G4bDev_Hôtellerie\\G4bDev_Hôtellerie\\G4bDev_Hôtellerie.csproj",
+        "packagesPath": "C:\\Users\\pn44lvn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pn44lvn\\source\\repos\\G4BDev\\G4bDev_Hôtellerie\\G4bDev_Hôtellerie\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\pl07ccc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pn44lvn\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -30,7 +30,7 @@
         },
         "frameworks": {
           "net6.0-windows7.0": {
-            "targetAlias": "net6.0-windows",
+            "targetAlias": "net6.0-windows7.0",
             "projectReferences": {}
           }
         },
@@ -42,14 +42,21 @@
       },
       "frameworks": {
         "net6.0-windows7.0": {
-          "targetAlias": "net6.0-windows",
+          "targetAlias": "net6.0-windows7.0",
+          "dependencies": {
+            "MySQL.Data": {
+              "target": "Package",
+              "version": "[8.2.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -61,7 +68,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
