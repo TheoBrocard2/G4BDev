@@ -15,14 +15,3 @@ C:\Users\pl07ccc\Desktop\G4bDev_Hôtellerie\G4bDev_Hôtellerie\obj\Debug\net6.0-
 C:\Users\pl07ccc\Desktop\G4bDev_Hôtellerie\G4bDev_Hôtellerie\obj\Debug\net6.0-windows\G4bDev_Hôtellerie.pdb
 C:\Users\pl07ccc\Desktop\G4bDev_Hôtellerie\G4bDev_Hôtellerie\obj\Debug\net6.0-windows\G4bDev_Hôtellerie.genruntimeconfig.cache
 C:\Users\pl07ccc\Desktop\G4bDev_Hôtellerie\G4bDev_Hôtellerie\obj\Debug\net6.0-windows\ref\G4bDev_Hôtellerie.dll
-C:\Users\pn44lvn\Source\Repos\G4BDev\G4bDev_Hôtellerie\G4bDev_Hôtellerie\obj\Debug\net6.0-windows\G4bDev_Hôtellerie.csproj.AssemblyReference.cache
-C:\Users\pn44lvn\Source\Repos\G4BDev\G4bDev_Hôtellerie\G4bDev_Hôtellerie\obj\Debug\net6.0-windows\G4bDev_Hôtellerie.Form1.resources
-C:\Users\pn44lvn\Source\Repos\G4BDev\G4bDev_Hôtellerie\G4bDev_Hôtellerie\obj\Debug\net6.0-windows\G4bDev_Hôtellerie.csproj.GenerateResource.cache
-C:\Users\pn44lvn\Source\Repos\G4BDev\G4bDev_Hôtellerie\G4bDev_Hôtellerie\obj\Debug\net6.0-windows\G4bDev_Hôtellerie.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\pn44lvn\Source\Repos\G4BDev\G4bDev_Hôtellerie\G4bDev_Hôtellerie\obj\Debug\net6.0-windows\G4bDev_Hôtellerie.AssemblyInfoInputs.cache
-C:\Users\pn44lvn\Source\Repos\G4BDev\G4bDev_Hôtellerie\G4bDev_Hôtellerie\obj\Debug\net6.0-windows\G4bDev_Hôtellerie.AssemblyInfo.cs
-C:\Users\pn44lvn\Source\Repos\G4BDev\G4bDev_Hôtellerie\G4bDev_Hôtellerie\obj\Debug\net6.0-windows\G4bDev_Hôtellerie.csproj.CoreCompileInputs.cache
-C:\Users\pn44lvn\Source\Repos\G4BDev\G4bDev_Hôtellerie\G4bDev_Hôtellerie\obj\Debug\net6.0-windows\G4bDev_Hôtellerie.sourcelink.json
-C:\Users\pn44lvn\Source\Repos\G4BDev\G4bDev_Hôtellerie\G4bDev_Hôtellerie\obj\Debug\net6.0-windows\G4bDev_Hôtellerie.dll
-C:\Users\pn44lvn\Source\Repos\G4BDev\G4bDev_Hôtellerie\G4bDev_Hôtellerie\obj\Debug\net6.0-windows\refint\G4bDev_Hôtellerie.dll
-C:\Users\pn44lvn\Source\Repos\G4BDev\G4bDev_Hôtellerie\G4bDev_Hôtellerie\obj\Debug\net6.0-windows\G4bDev_Hôtellerie.pdb

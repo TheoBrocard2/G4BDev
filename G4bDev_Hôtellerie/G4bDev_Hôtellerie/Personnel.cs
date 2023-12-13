@@ -8,38 +8,40 @@ namespace G4bDev_Hôtellerie
 {
     public class Personnel
     {
-        private string nom;
-        private string prenom;
+
+        public int Id { get; set; }
+        private string firstName;
+        private string lastName;
         private string poste;
 
-        public Personnel(string nom, string prenom, string poste)
+        public Personnel(string firstName, string lastName, string poste)
         {
-            this.nom = nom;
-            this.prenom = prenom;
+            this.firstName = firstName;
+            this.lastName = lastName;
             this.poste = poste;
         }
 
-        public string Nom
+        public string FirstName
         {
             get
             {
-                return nom;
+                return firstName;
             }
             set
             {
-                nom = value;
+                firstName = value;
             }
         }
 
-        public string Prenom
+        public string LastName
         {
             get
             {
-                return prenom;
+                return lastName;
             }
             set
             {
-                prenom = value;
+                lastName = value;
             }
         }
 
@@ -57,7 +59,7 @@ namespace G4bDev_Hôtellerie
 
         public void AjoutPersonnel()
         {
-            throw new NotImplementedException();
+            DBconnector.AjoutPersonnel(firstName, lastName, poste);
         }
 
         public void ModifInfo()
@@ -65,9 +67,9 @@ namespace G4bDev_Hôtellerie
             throw new NotImplementedException();
         }
 
-        public void SuppPersonnel()
+        public void SuppPersonnel(int id)
         {
-            throw new NotImplementedException();
+            DBconnector.SuppPersonnel(id);
         }
     }
 }

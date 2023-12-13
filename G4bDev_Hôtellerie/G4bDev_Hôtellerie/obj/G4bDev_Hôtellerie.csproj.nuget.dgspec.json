@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pn44lvn\\source\\repos\\G4BDev\\G4bDev_Hôtellerie\\G4bDev_Hôtellerie\\G4bDev_Hôtellerie.csproj": {}
+    "C:\\Users\\pn44lvn\\Desktop\\g4bDev\\G4bDev_Hôtellerie\\G4bDev_Hôtellerie\\G4bDev_Hôtellerie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pn44lvn\\source\\repos\\G4BDev\\G4bDev_Hôtellerie\\G4bDev_Hôtellerie\\G4bDev_Hôtellerie.csproj": {
+    "C:\\Users\\pn44lvn\\Desktop\\g4bDev\\G4bDev_Hôtellerie\\G4bDev_Hôtellerie\\G4bDev_Hôtellerie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pn44lvn\\source\\repos\\G4BDev\\G4bDev_Hôtellerie\\G4bDev_Hôtellerie\\G4bDev_Hôtellerie.csproj",
+        "projectUniqueName": "C:\\Users\\pn44lvn\\Desktop\\g4bDev\\G4bDev_Hôtellerie\\G4bDev_Hôtellerie\\G4bDev_Hôtellerie.csproj",
         "projectName": "G4bDev_Hôtellerie",
-        "projectPath": "C:\\Users\\pn44lvn\\source\\repos\\G4BDev\\G4bDev_Hôtellerie\\G4bDev_Hôtellerie\\G4bDev_Hôtellerie.csproj",
+        "projectPath": "C:\\Users\\pn44lvn\\Desktop\\g4bDev\\G4bDev_Hôtellerie\\G4bDev_Hôtellerie\\G4bDev_Hôtellerie.csproj",
         "packagesPath": "C:\\Users\\pn44lvn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pn44lvn\\source\\repos\\G4BDev\\G4bDev_Hôtellerie\\G4bDev_Hôtellerie\\obj\\",
+        "outputPath": "C:\\Users\\pn44lvn\\Desktop\\g4bDev\\G4bDev_Hôtellerie\\G4bDev_Hôtellerie\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

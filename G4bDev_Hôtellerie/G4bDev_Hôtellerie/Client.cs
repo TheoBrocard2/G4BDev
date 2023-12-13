@@ -8,40 +8,40 @@ namespace G4bDev_Hôtellerie
 {
     public class Client
     {
-        private string nom;
-        private string prenom;
+        private string firstName;
+        private string lastName;
         private string nbTel;
-        private string adresse;
+        private string adress;
 
-        public Client(string nom, string prenom, string nbTel, string adresse)
+        public Client(string firstName, string lastName, string nbTel, string adress)
         {
-            this.nom = nom;
-            this.prenom = prenom;
-            this.adresse = adresse;
+            this.firstName = firstName;
+            this.lastName = lastName;
+            this.adress = adress;
             this.nbTel = nbTel;
         }
 
-        public string Nom
+        public string FirstName
         {
             get
             {
-                return nom;
+                return firstName;
             }
             set
             {
-                nom = value;
+                firstName = value;
             }
         }
 
-        public string Prenom
+        public string LastName
         {
             get
             {
-                return prenom;
+                return lastName;
             }
             set
             {
-                prenom = value;
+                lastName = value;
             }
         }
 
@@ -57,22 +57,22 @@ namespace G4bDev_Hôtellerie
             }
         }
 
-        public string Adresse
+        public string Adress
         {
             get
             {
-                return adresse;
+                return adress;
             }
             set
             {
-                adresse = value;
+                adress = value;
             }
         }
 
 
         public void Enregistrer()
         {
-            throw new NotImplementedException();
+            DBconnector.EnregistrerClient(firstName, lastName, nbTel, adress);
         }
 
         public void ModifierInformations()
